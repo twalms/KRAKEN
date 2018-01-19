@@ -1,0 +1,6 @@
+BSSID               Ch  dBm  WPS  Lck  Vendor    ESSID
+--------------------------------------------------------------------------------
+18:B8:1F:FE:E9:20    1  -88  2.0  No   Broadcom  ATTtgp5eQs
+EC:1A:59:C8:3C:D8    1  -94  2.0  No   RealtekS  jlbeales2
+14:ED:BB:BB:58:C6    1  -92  2.0  No   Broadcom  ATT63Eyd4t
+14:ED:BB:B3:8B:FE    4  -85  2.0  No   Broadcom  ATT9Ea9bvV
